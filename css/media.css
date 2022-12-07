@@ -1,0 +1,42 @@
+@media(max-width:575px){
+    .logo_mb{
+        display: none;
+    }
+    .main_logo{
+        display: inline-block;
+    }
+    .main_logo img{
+        width: 150px;
+    }
+    .btn-appoint{
+        display: none;
+    }
+    .banner_img{
+        display: none;
+    }
+    .banner_content{
+        text-align: center;
+        align-items: flex-end!important;
+    }
+    .welcome_img{
+        position: inherit;
+        width: 60%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .welcome_section h2 {
+        text-align: center;
+    }
+    .welcome_section p {
+        text-align: center;
+    }
+    .welcome_p p{
+        text-align: left;
+    }
+    .business{
+        margin-bottom: 30px;
+    }
+    .top_footer h2 {
+        margin-top: 20px;
+    }
+} 
